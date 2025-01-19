@@ -1,4 +1,4 @@
-# 🐶 Hi, I'm Mauricio Uehara!
+# 👋 Hi, I'm Mauricio Uehara!
 
 ## About me
 Versatile front-end engineer and designer with over 8 years in the industry. Combines strong design background and technical expertise to craft simple and intuitive user-focused solutions. Eager learner, adapts quickly, and constantly seeks personal and professional growth.
